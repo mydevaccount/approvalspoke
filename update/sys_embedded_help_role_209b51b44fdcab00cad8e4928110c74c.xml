@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_external_app.requestmgr" name="x_snc_external_app.requestmgr">827bdd744fdcab00cad8e4928110c7ba</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>adela.cervantsz</sys_created_by>
+        <sys_created_on>2018-08-30 19:27:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>209b51b44fdcab00cad8e4928110c74c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>827bdd744fdcab00cad8e4928110c7ba</sys_name>
+        <sys_package display_value="External Approvals Spoke" source="x_snc_external_app">ae5751304fdcab00cad8e4928110c7af</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="External Approvals Spoke">ae5751304fdcab00cad8e4928110c7af</sys_scope>
+        <sys_update_name>sys_embedded_help_role_209b51b44fdcab00cad8e4928110c74c</sys_update_name>
+        <sys_updated_by>adela.cervantsz</sys_updated_by>
+        <sys_updated_on>2018-08-30 19:27:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
